@@ -2,7 +2,7 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("test form2");
 ?>
-<p>text123</p>
+<p>text123 333</p>
 <?$APPLICATION->IncludeComponent(
 	"bitrix:form",
 	"",
